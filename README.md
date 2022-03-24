@@ -41,9 +41,9 @@
  
 ## Election-Audit Summary:
 
-      The script right now selected only few counties but the election commission can use this code to get the election results summary of all the counties in a state and also the code can be applied to summaraizing the results of multiple candidates across the nation and the election stats for different years
+The script right now selected only few counties but the election commission can use this code to get the election results summary of all the counties in a state and also the code can be applied to summaraizing the results of multiple candidates across the nation and the election stats for different years
 
-
+![Election_results.png](https://github.com/klkanchi/Election-Analysis/blob/main/Election_results.png)
 
 
 
